@@ -4,7 +4,7 @@
 
 ##### Get the code
     git clone https://github.com/mehrdadkhodaei/task.git
-    cd django-gentelella
+    cd task
 
 ##### Install requirements 
     pip install -r requirements.txt
